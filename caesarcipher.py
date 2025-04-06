@@ -20,7 +20,6 @@ def cipher(mode, text, key):
                 result += letters[new_index]
     return result
 
-
 print()
 print('CAESAR CIPHER PROGRAM')
 print()
